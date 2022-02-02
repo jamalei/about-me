@@ -1,2 +1,15 @@
-# aboutme
-A README about ME :)
+# ABOUT ME
+### Welcome Everyone!
+![Title Banner](/media/ypao_beach.png)
+
+My name is Joey Amalei and I am an IT Professional on the island of Guam who enjoys programming and scripting. I will be using GitHub as a platform to upload my projects and files of used during my IT career and my self-study of Data Science.
+
+### Studying and working in the University of Guam - Early Start of my IT Career
+![UOG Welcoming Sign](/media/uog.jpg)
+![UOG Lab](/media/uog_lab.png)
+
+### Self-study of Data Science - Start of programming
+![IBM Cert](/media/ibm_cert.png)
+
+### LinkedIn Profile - Stop By and Connect with Me!
+[Click Here ^-^](https://www.linkedin.com/in/joey-amalei/)
