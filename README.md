@@ -11,7 +11,7 @@ My name is Joey Amalei and I am an IT Professional on the island of Guam who enj
 
 ![UOG Lab](/media/uog_lab.png)
 
-### Self-study of Data Science - Start of programming
+### Self-study of Data Science - Learning Python and SQL
 ![IBM Cert](/media/ibm_cert.png)
 
 ### LinkedIn Profile
