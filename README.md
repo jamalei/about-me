@@ -2,7 +2,7 @@
 ### Welcome Everyone!
 ![Title Banner](/media/ypao_beach.jpg)
 
-My name is Joey Amalei and I am an IT Professional on the island of Guam who enjoys programming and scripting. I will be using GitHub as a platform to upload my projects and files used during my IT career and my self-study of Data Science.
+My name is Joey Amalei and I am an IT Professional on the island of Guam who enjoys programming and scripting. I will be using GitHub as a platform to upload my projects and files used during my IT career.
 
 ![Coding Meme](/media/coder.gif)
 
