@@ -16,4 +16,7 @@ My name is Joey Amalei and I am an IT Professional on the island of Guam who enj
 
 ### LinkedIn Profile
 ![IBM Cert](/media/linkedin.png)
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="joey-amalei" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://gu.linkedin.com/in/joey-amalei?trk=profile-badge">Connect with me!</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="joey-amalei" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://gu.linkedin.com/in/joey-amalei?trk=profile-badge">Joey Amalei</a></div>
+              
+              
+
