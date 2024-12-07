@@ -1,5 +1,5 @@
 # ABOUT ME
-### Welcome Everyone!
+### Welcome!
 ![Title Banner](/media/ypao_beach.jpg)
 
 My name is Joey Amalei and I am an IT Professional on the island of Guam who enjoys programming and scripting. I will be using GitHub as a platform to upload my projects and files used during my IT career.
@@ -16,5 +16,5 @@ My name is Joey Amalei and I am an IT Professional on the island of Guam who enj
 
 ### LinkedIn Profile
 ![LinkedIn](/media/linkedin.png)
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="joey-amalei" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://gu.linkedin.com/in/joey-amalei?trk=profile-badge">Joey Amalei</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="joey-amalei" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://gu.linkedin.com/in/joey-amalei">Click here to navigate to my LinkedIn Page!</a></div>
               
